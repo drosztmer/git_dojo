@@ -14,3 +14,4 @@ def add(a, b):
 
 def shout():
     print("fuss rodahh")
+    print("fuss rodahh")
