@@ -1,5 +1,7 @@
 def introduce():
     print("Hello, I'm Gittie! Everithing is awsome!")
+    print("Hello, I'm Gittie! Who are you?")
+    print("Well, bye then.")
 
 
 def joke():
