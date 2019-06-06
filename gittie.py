@@ -16,3 +16,4 @@ def shout():
     print("fuss rodahh")
     print("fuss rodahh")
     print("fuss rodahh")
+    print("WOULD YOU LIKE SOME FRESH DRIED CHOCKIE?")
